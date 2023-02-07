@@ -1,0 +1,17 @@
+// paleta de colores
+
+// dark grey header and footer > #2c3e50
+// green background: #18bc9c
+// font: #212529
+// font-family: Monserrat, Lato;
+
+/* The following block can be included in a custom.scss */
+
+/* make the customizations */
+$theme-colors: (
+    "info": tomato,
+    "danger": teal
+);
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
