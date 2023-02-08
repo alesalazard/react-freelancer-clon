@@ -1,6 +1,6 @@
 import React from "react";
 import 'bootstrap';
-import '../styles/Navbar.css';
+import '../styles/Header.css';
 
 const Header = () => {
   return (
@@ -13,7 +13,7 @@ const Header = () => {
           <div className="row">
             <div className="col"><a href="#portfolio">PORTFOLIO</a></div>
             <div className="col"><a href="#about">ABOUT</a></div>
-            <div className="col"><a href="contact">CONTACT</a></div>
+            <div className="col"><a href="#contact">CONTACT</a></div>
           </div>
         </div>
       </div>
