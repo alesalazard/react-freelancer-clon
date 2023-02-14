@@ -21,10 +21,10 @@ const Section1 = () => {
           <h1 className='title1'>START BOOTSTRAP</h1>
         </div>
       </div>
-      <div className='row'>
-        <div className='col-2 divider'></div>
+      <div className='row divider'>
+        <div className='col-2 divider-line'></div>
         <div className="col-2 material-symbols-rounded">star</div>
-        <div className='col-2 divider'></div>
+        <div className='col-2 divider-line'></div>
       </div>
       <div className='row'>
         <div className='col'>

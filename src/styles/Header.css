@@ -5,25 +5,25 @@
   padding: 0;
 }
 
-.nav-container {
+.header-container {
   background-color: #2c3e50;
-  padding: 25px 100px;
+  padding: 25px 100px 15px 150px;
   margin: 15px 0 0 15px;
 }
 
-h1 {
-  color: aliceblue;
-  font-size: 25px;
-  font-weight: 900;
+.header-title {
+  color: mintcream;
+  font-size: 28px;
+  font-weight: bold;
   font-family: 'Montserrat', sans-serif;
 }
 
 .navbar {
   padding-left: 400px;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 a {
   text-decoration: none;
-  color: aliceblue;
+  color: mintcream;
 }
