@@ -1,25 +1,24 @@
   .foot-container {
     background-color: #2c3e50;
-    padding-top: 40px;
-    padding-right: 150px;
-    padding-left: 150px;
-    padding-bottom: 30px;
-    margin: 800px 0 0 15px;
+    padding: 40px 150px;
+    margin-left: 15px;
   }
   
   .footer-l {
     text-decoration: none;
     color: aliceblue;
-    font-size: 30px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: 800;
     text-align: center;
+    /* margin-left: 40px; */
   }
 
   .footer-m {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     color: aliceblue;
     text-align: center;
+    margin-top: 20px;
   }
 
   .green {
@@ -27,10 +26,18 @@
   }
 
   .footer-s {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
     color: aliceblue;
     text-align: center;
     margin-top: 80px;
+  }
+
+  .img-logo {
+    width: 45px;
+    border: 2px solid mintcream;
+    border-radius: 25px;
+    padding: 8px;
+    margin: 5px;
   }
   

@@ -40,7 +40,7 @@ const Section3 = () => {
             />
           </div>
           <div className="col-10 btn-link">
-            <button type="button" class="btn btn-link">Download Theme</button>
+            <button type="button" className="btn btn-link">Download Theme</button>
           </div>
         </div>
       </div>
