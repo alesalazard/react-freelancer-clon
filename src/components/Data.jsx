@@ -4,7 +4,7 @@ import "../styles/Data.css";
 
 const Data = () => {
   return (
-    <div className='container-fluid container-form'>
+    <div className='container-fluid container-form' id="contact">
       <div className='row'>
         <div className='col'>
           <h2 className='title2'>CONTACT ME</h2>

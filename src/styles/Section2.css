@@ -1,13 +1,11 @@
 .container2 {
     display: flex;
     flex-direction: column;
-    /* flex-wrap: nowrap; */
-    margin-left: 15px;
+    align-items: center;
+    justify-items: center;
     margin-bottom: 60px;
     padding-bottom: 60px;
     padding-top: 80px;
-    align-items: center;
-    justify-items: center;
   }
 
   .title2 {
@@ -18,7 +16,6 @@
   .black-star {
     color: #303e49;
     font-size: 38px;
-    /* padding-top: 10px; */
     position: relative;
     bottom: 15px;
     left: 4px;
@@ -32,11 +29,16 @@
     left: 15px;
   }
 
+  .img-individual-container {
+    padding-bottom: 30px;
+    margin-right:-75px;
+  }
+
+  .img-container {
+    justify-content: center;
+  }
+
   .img-portfolio {
     height: 100%;
     width: 320px;
-  }
-
-  .img-line1 {
-    padding-bottom: 25px;
   }

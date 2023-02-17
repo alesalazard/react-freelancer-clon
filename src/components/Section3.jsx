@@ -4,7 +4,7 @@ import "../styles/Section3.css";
 
 const Section3 = () => {
   return (
-    <div className='container-fluid container3'>
+    <div className='container-fluid container3' id="about">
       <div className='row'>
         <h2 className='title3'>ABOUT</h2>
       </div>
