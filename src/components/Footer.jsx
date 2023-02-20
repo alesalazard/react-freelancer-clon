@@ -7,8 +7,8 @@ const Footer = () => {
     <div className='container-fluid foot-container'>
       <div className='row footer-l'>
         <div className='col-4'>LOCATION</div>
-        <div className='col-5'>AROUND THE WEB</div>
-        <div className='col-3'>ABOUT FREELANCER</div>
+        <div className='col-4'>AROUND THE WEB</div>
+        <div className='col-4'>ABOUT FREELANCER</div>
       </div>
       <div className='row footer-m'>
         <div className='col-4'>

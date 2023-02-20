@@ -14,7 +14,7 @@ const Section3 = () => {
         <div className='col-2 divider-line'></div>
       </div>
       <div className='row about-text'>
-        <div className='col-4'>
+        <div className='col-sm-12 col-md-6 col-lg-4'>
           <p>
             Freelancer is a free bootstrap theme created by Start Bootstrap. The
             download includes the complete source files including HTML, CSS and
@@ -22,7 +22,7 @@ const Section3 = () => {
             customization.
           </p>
         </div>
-        <div className='col-4'>
+        <div className='col-sm-12 col-md-6 col-lg-4'>
           <p>
             Whether you're student looking to showcase your work, a professional
             looking to attract clients, or a graphic artist looking to share your

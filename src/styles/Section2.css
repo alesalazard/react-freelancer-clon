@@ -42,3 +42,13 @@
     height: 100%;
     width: 320px;
   }
+
+@media (max-width: 800px) {
+  .img-container {
+    gap: 50px;
+  }
+
+  .img-individual-container  {
+    padding-bottom: 0;
+  }
+}

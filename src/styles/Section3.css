@@ -44,3 +44,9 @@
     font-size: 18px;
     padding: 2px 5px;
   }
+
+  @media (max-width: 800px) {
+    .about-text{
+      padding: 0 80px;
+    }
+  }
