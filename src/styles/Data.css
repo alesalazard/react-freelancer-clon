@@ -49,3 +49,9 @@
     font-size: 20px;
     font-weight: 700;
   }
+
+@media (max-width: 380px){
+  .form-control {
+    width: 300px;
+  }
+}

@@ -6,17 +6,17 @@ const Footer = () => {
   return (
     <div className='container-fluid foot-container'>
       <div className='row footer-l'>
-        <div className='col-4'>LOCATION</div>
-        <div className='col-4'>AROUND THE WEB</div>
-        <div className='col-4'>ABOUT FREELANCER</div>
+        <div className='col-sm-12 col-md-4'>LOCATION</div>
+        <div className='col-sm-12 col-md-4'>AROUND THE WEB</div>
+        <div className='col-sm-12 col-md-4'>ABOUT FREELANCER</div>
       </div>
       <div className='row footer-m'>
-        <div className='col-4'>
+        <div className='col-sm-12'>
           3481 Melrose Place
           <br />
           Beverly Hills, CA 90210
         </div>
-        <div className='col'>
+        <div className='col-sm-12'>
           <img
             src={require("../img/facebook.png")}
             alt='facebook'
@@ -43,7 +43,7 @@ const Footer = () => {
             className='img-logo'
           />
         </div>
-        <div className='col-3'>
+        <div className='col-sm-12'>
           Freelance is a free to use, open source Bootstrap theme created by{" "}
           <span className='green'>Start Bootstrap</span>.
         </div>
